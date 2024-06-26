@@ -1,5 +1,5 @@
 # Business-Case-Project - Walmart Sales and the Economy
-
+ 
 In this project, an Indiana state official has asked some questions about business across the state. 
 The offical has some specific questions about how chain retailors are effected by the wider economy, as well as a desire for some general data exploration and analysis.
 
