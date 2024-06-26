@@ -20,6 +20,7 @@ https://www.kaggle.com/datasets/mikhail1681/walmart-sales
 2) Clean the dataset to be easily browsable & import to R for analysis
 
 3) Answer many proposed questions and do some general analysis
+    
      Questions include:
     
      Which stores have the highest and lowest weekly sales?
